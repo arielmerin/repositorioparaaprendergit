@@ -1,0 +1,18 @@
+body{
+    background: pink;
+    font-display: arial;
+}
+header{
+    background: beige;
+    
+}
+#introd{
+    background: #ce8e8e;
+    font-style: oblique;
+}
+#family{
+    background: #8eceb9;
+}
+#photos{
+    background: #efffb6;
+}
