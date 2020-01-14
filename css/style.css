@@ -1,5 +1,5 @@
 body{
-    background: pink;
+    background: #FFD9D9;
     font-family: arial;
 }
 header{
@@ -7,11 +7,11 @@ header{
     
 }
 #introd{
-    background: #ce8e8e;
+    background: #E3B3B3;
     font-style: oblique;
 }
 #family{
-    background: #8eceb9;
+    background: #B4EFDC;
 }
 #photos{
     background: #efffb6;
